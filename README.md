@@ -58,7 +58,10 @@ En este desafío, se entrenó un modelo de BERT para realizar análisis de senti
 ## Contacto
 Si estás interesado en mi trabajo, puedes contactarme mediante:
 
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-villagra)  &nbsp; &nbsp; &nbsp;
-[<img src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454731_1280.png" alt="drawing" width="30px"/>](mailto:contact@javiervillagra.com) &nbsp; &nbsp; &nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="drawing" width="30px"/>](https://www.linkedin.com/in/javier-villagra)
+&nbsp; &nbsp; &nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/3059/3059989.png" alt="drawing" width="30px"/>](mailto:contact@javiervillagra.com) &nbsp; &nbsp; &nbsp;
+[<img src="https://cdn-icons-png.flaticon.com/512/1006/1006669.png" alt="drawing" width="30px"/>](https://www.javiervillagra.com)
+
 
 Muchas gracias! :wink:
